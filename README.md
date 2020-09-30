@@ -1,13 +1,15 @@
 # Stopwatch
+
+## Introduction
 A Stopwatch created by using Arduino UNO Rev3. The functions of this project include a timer that would count up with seconds and minutes, display the correct time with the four digit seven segment, reset the timer, pause and restart the timer.
 
+## Demonstration
 Demonstration video link: https://youtu.be/u0hclShrEls
  
-Timer Pause Algorithm:
+## Timer Pause Algorithm
 In the Arduino loop, it will check if the pause button is pressed or not, based on the previous state of the pause button state and the current pause button state. It will decide either pause the timer or keep the timer going.
 
-Parts List:
-
+## Parts List
 - 1x	Arduino UNO Rev3
 
 - 1x	Breadboard
@@ -21,7 +23,7 @@ Parts List:
 - 21x	Wire
 
 
-Referneces:
+## Referneces:
 
 - Baldengineer. (2015, August 11). Arduino: How do you reset millis()? Retrieved from https://www.baldengineer.com/arduino-how-do-you-reset-millis.html
 
