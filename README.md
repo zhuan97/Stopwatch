@@ -4,6 +4,7 @@
 A Stopwatch created by using Arduino UNO Rev3. The functions of this project include a timer that would count up with seconds and minutes, display the correct time with the four digit seven segment, reset the timer, pause and restart the timer.
 
 ## Demonstration
+![Image](picture.png)
 Demonstration video link: https://youtu.be/u0hclShrEls
  
 ## Timer Pause Algorithm
